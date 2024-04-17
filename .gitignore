@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+
+home/out.ipynb
+jupyter_path/kernels/bash/kernel.json
